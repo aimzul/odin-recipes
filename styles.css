@@ -1,0 +1,17 @@
+:root {
+    --color-primary: #D3C0B2;
+    --color-secondary: #A99282;
+    --color-tertiary: #F4F2F0;
+  }
+  
+body{
+    font-family:"Playfair";
+    font-size: 5rem;
+    line-height: 1.5;
+    background-color: var(--color-tertiary);
+
+    position: center;
+    display: flex;
+    flex-direction: column;
+}
+
